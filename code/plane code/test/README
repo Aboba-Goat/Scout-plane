@@ -1,0 +1,8 @@
+
+This is the code for the plane.
+If you need just the code you can find it in the src 
+but then you have to add the libraries yourself which 
+you can find the min code>>planeCode>>plane code>>pio>>libdeps
+
+More information about PlatformIO Unit Testing:
+- https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
