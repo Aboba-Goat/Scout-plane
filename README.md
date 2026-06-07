@@ -16,10 +16,12 @@ Durable design.
 
 Power efficient and (Cool looking), did I mention it can be assembled easily ?
 
-<img width="939" height="592" alt="b1" src="https://github.com/user-attachments/assets/3fef51b1-a93c-4746-82a3-0c68a5faa221" />
+<img width="1095" height="592" alt="d3" src="https://github.com/user-attachments/assets/55fe2dcc-0b3e-4de3-8888-2c6cd5e4f4b0" />
+
 
 
 # What makes it modular ?
 After you cut out the fuselage/wings following the 3D design,and you assembled the motors/servo's. Glue the horizontal sticks like in the picture and connect the vertical sticks that will act as rettention pins holding the whole plane together and giving you free access with minimal effort
-<img width="1277" height="527" alt="b5" src="https://github.com/user-attachments/assets/39ab688b-e333-4552-bac3-b8adeadb285f" />
+<img width="1095" height="592" alt="d2" src="https://github.com/user-attachments/assets/450cc07a-b863-4f3f-a082-6c0f0d51c2bf" />
+
 
