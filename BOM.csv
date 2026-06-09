@@ -1,0 +1,6 @@
+ID,Task Name,Assignee,Status,Priority
+1,Setup Repository,Alice,Done,High
+2,Write Code,Bob,In Progress,High
+3,Review PR,Charlie,Pending,Medium
+4,Run Tests,Alice,Pending,High
+5,Deploy to Prod,Dave,Pending,Critical
