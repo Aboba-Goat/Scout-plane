@@ -27,5 +27,5 @@ After you cut out the fuselage/wings following the 3D design,and you assembled t
 # PCB Schematics for the flight controller
 <img width="1225" height="598" alt="Screenshot 2026-05-17 at 23 01 41 (1)" src="https://github.com/user-attachments/assets/47e96131-31ac-443e-bcac-c328499f26a8" />
 
-# PCB Schematics for the pLane electronics
+# PCB Schematics for the plane electronics
 <img width="1172" height="748" alt="Screenshot 2026-05-17 at 23 06 21 (1)" src="https://github.com/user-attachments/assets/49da0aba-b69e-4965-ba91-e7e817297ca1" />
