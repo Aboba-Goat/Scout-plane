@@ -29,3 +29,10 @@ After you cut out the fuselage/wings following the 3D design,and you assembled t
 
 # PCB Schematics for the plane electronics
 <img width="1172" height="748" alt="Screenshot 2026-05-17 at 23 06 21 (1)" src="https://github.com/user-attachments/assets/49da0aba-b69e-4965-ba91-e7e817297ca1" />
+
+# How To Build:
+Step 1: Cut a board of polystyrene into Separate pieces: Starting with the nose of the fuselage cut a strip that is 32 cm long on one end and 7.5 cm long on the other end. Make it 8 cm wide then fold it into shape. 
+Onto the middle and back of the fuselage, cut a strip that is 34 cm long and 9 cm wide and a strip that is 34 cm long and 21,5 cm wide but on the other end it is 11 cm long then fold them both into shape.
+Cut another part of polystyrene into a strip that is 24 cm long and 16 cm wide then fold into shape and make sure to make the airfoil shape like the one in 3D. That will be one of your wings. Measure 2.5 cm from one end and make a cut into the wing that measures 10 cm long and 2 cm wide. that will be your aileron. Make sure to fold it so that the height of it is 0.4 cm in the middle.
+Do that process a second time for the other wing.
+
